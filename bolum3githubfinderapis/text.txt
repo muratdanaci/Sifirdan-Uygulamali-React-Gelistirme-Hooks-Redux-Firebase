@@ -1,0 +1,3 @@
+https://api.github.com/users/muratdanaci
+
+// sudo npm install --unsafe-perm=true --allow-root
